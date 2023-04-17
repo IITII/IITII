@@ -7,7 +7,7 @@ I'm IITII. Using NodeJS，Write Scala.
 
 ### Things I code with
 
-<!-- style: flat-square, flat-square -->
+<!-- style: flat-square, for-the-badge -->
 
 ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=flat-square&logo=scala&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
@@ -49,6 +49,8 @@ I'm IITII. Using NodeJS，Write Scala.
 <!-- ![Rss](https://img.shields.io/badge/rss-F88900?style=flat-square&logo=rss&logoColor=white) -->
 <!-- ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=flat-square&logo=riotgames&logoColor=white) -->
 
+<hr>
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=IITII&show_icons=true" alt="My github stats" />
 </a>  
@@ -70,7 +72,9 @@ I'm IITII. Using NodeJS，Write Scala.
 
 <hr>
 
-<center><img src="https://profile-counter.glitch.me/IITII/count.svg"/></center>
+<div align="center">
+<img src="https://profile-counter.glitch.me/IITII/count.svg"/>
+</div>
 
 
 <!-- [![Sparkline](https://stars.medv.io/IITII/badges.svg)](https://stars.medv.io/IITII/badges) -->
