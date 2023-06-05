@@ -25,14 +25,15 @@ I'm IITII. Using NodeJS，Write Scala.
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white)
-
-<!-- ![quill](https://img.shields.io/badge/Quill-52B0E7?style=flat-square&logo=quill&logoColor=white) -->
+![quill](https://img.shields.io/badge/Quill-52B0E7?style=flat-square&logo=quill&logoColor=white)
 
 ![Quasar](https://img.shields.io/badge/Quasar-16B7FB?style=flat-square&logo=quasar&logoColor=black)
 ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat-square&logo=chart.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D)
-![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=flat-square&logo=selenium&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=Sequelize&logoColor=white)
+![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=flat-square&logo=selenium&logoColor=white)
+![cheerio](https://img.shields.io/badge/-cheerio-%43B02A?style=flat-square&logo=jquery&logoColor=white)
+![jQuery](https://img.shields.io/badge/-jQuery-%43B02A?style=flat-square&logo=jquery&logoColor=white)
 
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white)
 ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=flat-square&logo=github&logoColor=white)
