@@ -71,11 +71,11 @@ I'm IITII. Using NodeJS，Write Scala.
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [红米 AX3000/CR8806 刷入 Openwrt 记录](https://iitii.github.io/2023/06/07/1/)
+- [VnStat 数据备份恢复](https://iitii.github.io/2023/05/15/1/)
 - [Openwrt ssh key 和 password 均正确但是无法登陆](https://iitii.github.io/2023/05/01/1/)
 - [Mac 下快速查找/删除命中关键词的 Maven 依赖](https://iitii.github.io/2023/04/15/1/)
 - [Hadoop手动切换Namenode](https://iitii.github.io/2023/04/01/1/)
-- [将 powershell 脚本添加为开机启动项](https://iitii.github.io/2023/03/14/1/)
-- [Scala报错: scala.runtime.NonLocalReturnControl](https://iitii.github.io/2023/02/15/1/)
 <!-- BLOG-POST-LIST:END -->
 
 <p><a href="https://iitii.github.io/">➡️ More Blog Posts</a></p>
