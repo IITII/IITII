@@ -71,8 +71,8 @@ I'm IITII. Using NodeJS，Write Scala.
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Mac 下快速查找/删除命中关键词的 Maven 依赖](https://iitii.github.io/2023/08/08/1/)
-- [Hadoop手动切换Namenode](https://iitii.github.io/2023/08/07/1/)
+- [Mac 下快速查找/删除命中关键词的 Maven 依赖](https://iitii.github.io/2023/04/15/1/)
+- [Hadoop手动切换Namenode](https://iitii.github.io/2023/04/01/1/)
 - [将 powershell 脚本添加为开机启动项](https://iitii.github.io/2023/03/14/1/)
 - [Scala报错: scala.runtime.NonLocalReturnControl](https://iitii.github.io/2023/02/15/1/)
 - [mvn报错: MVN Malformed \uxxxx encoding.](https://iitii.github.io/2023/02/04/1/)
