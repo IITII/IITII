@@ -71,11 +71,11 @@ I'm IITII. Using NodeJS，Write Scala.
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Kafka 配置基于 Kerberos 的 ACL 访问控制鉴权](https://iitii.github.io/2023/08/01/1/)
+- [Kafka 集成 Kerberos 认证](https://iitii.github.io/2023/07/15/1/)
 - [联通光猫HG8347R路由模式下无法正常端口映射/DMZ](https://iitii.github.io/2023/07/01/1/)
 - [红米 AX3000/CR8806 刷入 Openwrt 记录](https://iitii.github.io/2023/06/07/1/)
 - [VnStat 数据备份恢复](https://iitii.github.io/2023/05/15/1/)
-- [Openwrt ssh key 和 password 均正确但是无法登陆](https://iitii.github.io/2023/05/01/1/)
-- [Mac 下快速查找/删除命中关键词的 Maven 依赖](https://iitii.github.io/2023/04/15/1/)
 <!-- BLOG-POST-LIST:END -->
 
 <p><a href="https://iitii.github.io/">➡️ More Blog Posts</a></p>
