@@ -71,11 +71,11 @@ I'm IITII. Using NodeJS，Write Scala.
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Spark create function 逻辑](https://iitii.github.io/2023/10/24/1/)
 - [hdfs 实时 Decommissioned 节点](https://iitii.github.io/2023/09/09/1/)
 - [黑苹果 AMD GPU 功耗一直很高](https://iitii.github.io/2023/08/31/1/)
 - [蓝宝石 RX580 2048sp 刷 vbios 降级 RX570 记录](https://iitii.github.io/2023/08/15/1/)
 - [Kafka 配置基于 Kerberos 的 ACL 访问控制鉴权](https://iitii.github.io/2023/08/01/1/)
-- [Kafka 集成 Kerberos 认证](https://iitii.github.io/2023/07/15/1/)
 <!-- BLOG-POST-LIST:END -->
 
 <p><a href="https://iitii.github.io/">➡️ More Blog Posts</a></p>
