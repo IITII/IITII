@@ -71,11 +71,11 @@ I'm IITII. Using NodeJS，Write Scala.
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [群辉 Docker 部署 zoffline](https://iitii.github.io/2025/02/10/1/)
-- [iOS 自签 IPA 应用](https://iitii.github.io/2025/01/10/1/)
-- [he dns 自动创建 ddns 记录并修改 key](https://iitii.github.io/2024/12/31/1/)
-- [记一次群辉存储空间损毁后 QB 种子恢复尝试](https://iitii.github.io/2024/12/10/1/)
-- [畅网 N100 黑群晖踩坑记录](https://iitii.github.io/2024/12/04/1/)
+- [群辉迁移 pve9: 网络桥接篇](https://iitii.github.io/2026/02/27/1/)
+- [群辉迁移 pve9: 恢复 Windows 篇](https://iitii.github.io/2026/01/27/1/)
+- [群辉迁移 pve9: 飞牛篇](https://iitii.github.io/2025/12/27/1/)
+- [群辉迁移 pve9: 恢复群辉篇](https://iitii.github.io/2025/11/27/1/)
+- [群辉迁移 pve9: PVE篇](https://iitii.github.io/2025/10/27/1/)
 <!-- BLOG-POST-LIST:END -->
 
 <p><a href="https://iitii.github.io/">➡️ More Blog Posts</a></p>
